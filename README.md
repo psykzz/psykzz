@@ -11,7 +11,7 @@ Pretty much anything @psykzz.
 
 ### Notable mentions / callouts
 
- - @neamar - A highly recommended individual whom i worked with in the past.
+ - @neamar - A highly recommended individual, who I've worked with in the past.
 <!-- - @kvlr - A highly recommended individual whom i worked with in the past. -->
 
 <!--
