@@ -5,8 +5,8 @@ Hi, I'm Matt — a software engineering at Riot Games, working on a variety of w
 
 Pretty much anything @psykzz.
 
-Discord: PsyKzz#4695
-Email: psykzz@psykzz.com
+- Discord: PsyKzz#4695
+- Email: psykzz@psykzz.com
 
 
 ### Notable mentions / callouts
