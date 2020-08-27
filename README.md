@@ -1,6 +1,19 @@
 ### Matt Smith - 👋
 Hi, I'm Matt — a software engineering at Riot Games, working on a variety of world wide products.
 
+<!--
+### Skills
+
+- Python 
+- Node
+- React
+
+- Java
+- C++
+- Golang
+-->
+
+
 ### How to reach me
 
 Pretty much anything @psykzz.
