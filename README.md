@@ -1,8 +1,10 @@
+[![PsyKzz's github stats](https://github-readme-stats.vercel.app/api?username=psykzz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Matt Smith - 👋
 Hi, I'm Matt — a software engineering at Riot Games, working on a variety of world wide products.
 
 <!--
-### Skills
+### Languages
 
 - Python 
 - Node
@@ -25,9 +27,7 @@ Pretty much anything @psykzz.
 ### Notable mentions / callouts
 
  - @neamar - A highly recommended individual, who I've worked with in the past.
-<!-- - @kvlr - A highly recommended individual whom i worked with in the past. -->
 
-<!--
 **psykzz/psykzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
