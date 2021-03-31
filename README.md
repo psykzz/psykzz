@@ -1,7 +1,7 @@
 [![PsyKzz's github stats](https://github-readme-stats.vercel.app/api?username=psykzz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Matt Smith - 👋
-Hi, I'm Matt — a software engineering at Riot Games, working on a variety of world wide products.
+Hi, I'm Matt — a software engineer at Riot Games, working on a variety of commerce products.
 
 <!--
 ### Languages
