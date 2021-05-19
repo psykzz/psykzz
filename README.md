@@ -3,20 +3,13 @@
 ### Matt Smith - 👋
 Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of commerce products.
 
-<!--
-### Languages
+### ⚡ Recent Activity
 
-- Python 
-- Node
-- React
-
-- Java
-- C++
-- Golang
--->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
-### How to reach me
+### 📫 How to reach me
 
 Pretty much anything @psykzz.
 
@@ -27,3 +20,8 @@ Pretty much anything @psykzz.
 ### Notable mentions / callouts
 
  - @neamar - A highly recommended individual, who I've worked with in the past.
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=psykzz/psykzz)
+
+
