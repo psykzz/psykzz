@@ -14,4 +14,3 @@ jobs:
       - uses: psykzz/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          FILTER_SIMILAR: true
