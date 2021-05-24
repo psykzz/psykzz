@@ -8,6 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com/DalkMania/gatsby-plugin-osano/pull/4) in [DalkMania/gatsby-plugin-osano](https://github.com/DalkMania/gatsby-plugin-osano)
+2. 🗣 Commented on [#3](https://github.com/DalkMania/gatsby-plugin-osano/issues/3) in [DalkMania/gatsby-plugin-osano](https://github.com/DalkMania/gatsby-plugin-osano)
+3. 🗣 Commented on [#3](https://github.com/DalkMania/gatsby-plugin-osano/issues/3) in [DalkMania/gatsby-plugin-osano](https://github.com/DalkMania/gatsby-plugin-osano)
+4. 💪 Opened PR [#50](https://github.com/colbyfayock/gatsby-plugin-google-marketing-platform/pull/50) in [colbyfayock/gatsby-plugin-google-marketing-platform](https://github.com/colbyfayock/gatsby-plugin-google-marketing-platform)
+5. 💪 Opened PR [#3](https://github.com/DalkMania/gatsby-plugin-osano/pull/3) in [DalkMania/gatsby-plugin-osano](https://github.com/DalkMania/gatsby-plugin-osano)
 <!--END_SECTION:activity-->
 
 
