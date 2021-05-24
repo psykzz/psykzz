@@ -8,9 +8,6 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#4](https://github.com/DalkMania/gatsby-plugin-osano/pull/4) in [DalkMania/gatsby-plugin-osano](https://github.com/DalkMania/gatsby-plugin-osano)
-
 <!--END_SECTION:activity-->
 
 
