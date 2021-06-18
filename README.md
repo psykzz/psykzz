@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#546](https://github.com/portainer/portainer/issues/546) in [portainer/portainer](https://github.com/portainer/portainer)
-2. ❌ Closed PR [#1](https://github.com/Neamar/opinion-tracker/pull/1) in [Neamar/opinion-tracker](https://github.com/Neamar/opinion-tracker)
-3. ❌ Closed PR [#4](https://github.com/BobSlim/TerraGov-Marine-Corps/pull/4) in [BobSlim/TerraGov-Marine-Corps](https://github.com/BobSlim/TerraGov-Marine-Corps)
-4. 💪 Opened PR [#1073](https://github.com/BigWigsMods/BigWigs/pull/1073) in [BigWigsMods/BigWigs](https://github.com/BigWigsMods/BigWigs)
-5. 💪 Opened PR [#4](https://github.com/DalkMania/gatsby-plugin-osano/pull/4) in [DalkMania/gatsby-plugin-osano](https://github.com/DalkMania/gatsby-plugin-osano)
+1. 🎉 Merged PR [#76](https://github.com/psykzz/flask-rollbar/pull/76) in [psykzz/flask-rollbar](https://github.com/psykzz/flask-rollbar)
+2. 🎉 Merged PR [#75](https://github.com/psykzz/flask-rollbar/pull/75) in [psykzz/flask-rollbar](https://github.com/psykzz/flask-rollbar)
+3. 🎉 Merged PR [#70](https://github.com/psykzz/flask-rollbar/pull/70) in [psykzz/flask-rollbar](https://github.com/psykzz/flask-rollbar)
+4. 🎉 Merged PR [#66](https://github.com/psykzz/flask-rollbar/pull/66) in [psykzz/flask-rollbar](https://github.com/psykzz/flask-rollbar)
+5. ❌ Closed PR [#51](https://github.com/psykzz/flask-rollbar/pull/51) in [psykzz/flask-rollbar](https://github.com/psykzz/flask-rollbar)
 <!--END_SECTION:activity-->
 
 
