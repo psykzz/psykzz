@@ -26,7 +26,7 @@ Pretty much anything @psykzz.
 
 ### Notable mentions / callouts
 
- - @neamar - A highly recommended individual, who I've worked with in the past.
+ - [@neamar](https://github.com/neamar) - A highly recommended individual, who I've worked with in the past.
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=psykzz/psykzz)
