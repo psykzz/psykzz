@@ -2,10 +2,10 @@
 [![PsyKzz's github stats](https://github-readme-stats.vercel.app/api?username=psykzz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-### Matt Smith - 👋
+## Matt Smith - 👋
 Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of commerce products.
 
-### ⚡ Recent Activity
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8315](https://github.com/tgstation/TerraGov-Marine-Corps/issues/8315) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
@@ -16,7 +16,7 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 <!--END_SECTION:activity-->
 
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 Pretty much anything @psykzz.
 
@@ -24,7 +24,7 @@ Pretty much anything @psykzz.
 - Email: psykzz@psykzz.com
 
 
-### Notable mentions / callouts
+## Notable mentions / callouts
 
  - [@neamar](https://github.com/neamar) - A highly recommended individual, who I've worked with in the past.
 
