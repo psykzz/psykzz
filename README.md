@@ -8,7 +8,7 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/psykzz/planning-poker/pull/1) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+1. 🎉 Merged PR [#1](https://github.com/psykzz/planning-poker/pull/1) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
 2. 💪 Opened PR [#25](https://github.com/alexemanuelol/rustPlusPlus/pull/25) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
 3. 🗣 Commented on [#22](https://github.com/wiziple/browser-lang/issues/22) in [wiziple/browser-lang](https://github.com/wiziple/browser-lang)
 4. 💪 Opened PR [#22](https://github.com/wiziple/browser-lang/pull/22) in [wiziple/browser-lang](https://github.com/wiziple/browser-lang)
