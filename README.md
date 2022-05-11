@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/alexemanuelol/rustPlusPlus/pull/34) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-2. 💪 Opened PR [#32](https://github.com/alexemanuelol/rustPlusPlus/pull/32) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-3. 🗣 Commented on [#112](https://github.com/microapps/gatsby-plugin-react-i18next/issues/112) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
-4. 🗣 Commented on [#70](https://github.com/microapps/gatsby-plugin-react-i18next/issues/70) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
-5. 🎉 Merged PR [#1](https://github.com/psykzz/planning-poker/pull/1) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+1. ❗️ Opened issue [#133](https://github.com/microapps/gatsby-plugin-react-i18next/issues/133) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+2. 💪 Opened PR [#34](https://github.com/alexemanuelol/rustPlusPlus/pull/34) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+3. 💪 Opened PR [#32](https://github.com/alexemanuelol/rustPlusPlus/pull/32) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+4. 🗣 Commented on [#112](https://github.com/microapps/gatsby-plugin-react-i18next/issues/112) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+5. 🗣 Commented on [#70](https://github.com/microapps/gatsby-plugin-react-i18next/issues/70) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
 <!--END_SECTION:activity-->
 
 
