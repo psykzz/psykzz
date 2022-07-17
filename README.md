@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/contentstack/gatsby-source-contentstack/issues/152) in [contentstack/gatsby-source-contentstack](https://github.com/contentstack/gatsby-source-contentstack)
-2. 💪 Opened PR [#24](https://github.com/psykzz/psybot/pull/24) in [psykzz/psybot](https://github.com/psykzz/psybot)
-3. 💪 Opened PR [#38](https://github.com/alexemanuelol/rustPlusPlus/pull/38) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-4. 💪 Opened PR [#35](https://github.com/alexemanuelol/rustPlusPlus/pull/35) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-5. ❗️ Opened issue [#133](https://github.com/microapps/gatsby-plugin-react-i18next/issues/133) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+1. 🎉 Merged PR [#2](https://github.com/psykzz/planning-poker/pull/2) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+2. 🗣 Commented on [#152](https://github.com/contentstack/gatsby-source-contentstack/issues/152) in [contentstack/gatsby-source-contentstack](https://github.com/contentstack/gatsby-source-contentstack)
+3. 💪 Opened PR [#24](https://github.com/psykzz/psybot/pull/24) in [psykzz/psybot](https://github.com/psykzz/psybot)
+4. 💪 Opened PR [#38](https://github.com/alexemanuelol/rustPlusPlus/pull/38) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+5. 💪 Opened PR [#35](https://github.com/alexemanuelol/rustPlusPlus/pull/35) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
 <!--END_SECTION:activity-->
 
 
