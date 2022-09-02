@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/alexemanuelol/rustPlusPlus/issues/63) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-2. 🗣 Commented on [#22](https://github.com/wiziple/browser-lang/issues/22) in [wiziple/browser-lang](https://github.com/wiziple/browser-lang)
-3. 🗣 Commented on [#59](https://github.com/alexemanuelol/rustPlusPlus/issues/59) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-4. 💪 Opened PR [#62](https://github.com/alexemanuelol/rustPlusPlus/pull/62) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-5. ❗️ Opened issue [#58](https://github.com/newrelic/gatsby-plugin-newrelic/issues/58) in [newrelic/gatsby-plugin-newrelic](https://github.com/newrelic/gatsby-plugin-newrelic)
+1. 💪 Opened PR [#67](https://github.com/alexemanuelol/rustPlusPlus/pull/67) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+2. 💪 Opened PR [#66](https://github.com/alexemanuelol/rustPlusPlus/pull/66) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+3. 💪 Opened PR [#65](https://github.com/alexemanuelol/rustPlusPlus/pull/65) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+4. 🗣 Commented on [#63](https://github.com/alexemanuelol/rustPlusPlus/issues/63) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+5. 🗣 Commented on [#22](https://github.com/wiziple/browser-lang/issues/22) in [wiziple/browser-lang](https://github.com/wiziple/browser-lang)
 <!--END_SECTION:activity-->
 
 
