@@ -8,8 +8,8 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/microapps/gatsby-plugin-react-i18next/issues/89) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
-2. 🗣 Commented on [#46](https://github.com/alexemanuelol/rustPlusPlus/issues/46) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+1. 🗣 Commented on [#46](https://github.com/alexemanuelol/rustPlusPlus/issues/46) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
+2. 🗣 Commented on [#89](https://github.com/microapps/gatsby-plugin-react-i18next/issues/89) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
 3. 💪 Opened PR [#78](https://github.com/alexemanuelol/rustPlusPlus/pull/78) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
 4. 🗣 Commented on [#155](https://github.com/microapps/gatsby-plugin-react-i18next/issues/155) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
 5. ❗️ Opened issue [#155](https://github.com/microapps/gatsby-plugin-react-i18next/issues/155) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
