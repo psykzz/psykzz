@@ -8,9 +8,9 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ManaJAM-2022/game/issues/2) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
-2. 💪 Opened PR [#2](https://github.com/ManaJAM-2022/game/pull/2) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
-3. ❌ Reopened PR [#1](https://github.com/ManaJAM-2022/game/pull/1) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+1. 🎉 Merged PR [#2](https://github.com/ManaJAM-2022/game/pull/2) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+2. 🎉 Merged PR [#1](https://github.com/ManaJAM-2022/game/pull/1) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+3. 🗣 Commented on [#2](https://github.com/ManaJAM-2022/game/issues/2) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
 4. 🗣 Commented on [#3](https://github.com/psykzz/new-world-server-page/issues/3) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
 5. 🗣 Commented on [#4](https://github.com/psykzz/new-world-server-page/issues/4) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
 <!--END_SECTION:activity-->
