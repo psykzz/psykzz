@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35504](https://github.com/gatsbyjs/gatsby/issues/35504) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 🎉 Merged PR [#6](https://github.com/psykzz/new-world-server-page/pull/6) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
-3. 🎉 Merged PR [#7](https://github.com/psykzz/new-world-server-page/pull/7) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
-4. 💪 Opened PR [#17](https://github.com/ManaJAM-2022/game/pull/17) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
-5. 🎉 Merged PR [#2](https://github.com/ManaJAM-2022/game/pull/2) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+1. 🎉 Merged PR [#19](https://github.com/ManaJAM-2022/game/pull/19) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+2. 🗣 Commented on [#19](https://github.com/ManaJAM-2022/game/issues/19) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+3. 🗣 Commented on [#35504](https://github.com/gatsbyjs/gatsby/issues/35504) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+4. 🎉 Merged PR [#6](https://github.com/psykzz/new-world-server-page/pull/6) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+5. 🎉 Merged PR [#7](https://github.com/psykzz/new-world-server-page/pull/7) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
 <!--END_SECTION:activity-->
 
 
