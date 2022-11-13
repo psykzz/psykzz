@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/ManaJAM-2022/game/pull/20) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
-2. 🎉 Merged PR [#19](https://github.com/ManaJAM-2022/game/pull/19) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
-3. 🗣 Commented on [#19](https://github.com/ManaJAM-2022/game/issues/19) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
-4. 🗣 Commented on [#35504](https://github.com/gatsbyjs/gatsby/issues/35504) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-5. 🎉 Merged PR [#6](https://github.com/psykzz/new-world-server-page/pull/6) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+1. 💪 Opened PR [#22](https://github.com/ManaJAM-2022/game/pull/22) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+2. 🎉 Merged PR [#20](https://github.com/ManaJAM-2022/game/pull/20) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+3. 🎉 Merged PR [#19](https://github.com/ManaJAM-2022/game/pull/19) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+4. 🗣 Commented on [#19](https://github.com/ManaJAM-2022/game/issues/19) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+5. 🗣 Commented on [#35504](https://github.com/gatsbyjs/gatsby/issues/35504) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 <!--END_SECTION:activity-->
 
 
