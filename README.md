@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/psykzz/release-test/pull/4) in [psykzz/release-test](https://github.com/psykzz/release-test)
-2. ❌ Closed PR [#3](https://github.com/psykzz/release-test/pull/3) in [psykzz/release-test](https://github.com/psykzz/release-test)
-3. 🎉 Merged PR [#2](https://github.com/psykzz/release-test/pull/2) in [psykzz/release-test](https://github.com/psykzz/release-test)
-4. 💪 Opened PR [#22](https://github.com/ManaJAM-2022/game/pull/22) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
-5. 🎉 Merged PR [#20](https://github.com/ManaJAM-2022/game/pull/20) in [ManaJAM-2022/game](https://github.com/ManaJAM-2022/game)
+1. 🎉 Merged PR [#8](https://github.com/psykzz/new-world-server-page/pull/8) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+2. 🎉 Merged PR [#9](https://github.com/psykzz/new-world-server-page/pull/9) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+3. 🎉 Merged PR [#4](https://github.com/psykzz/release-test/pull/4) in [psykzz/release-test](https://github.com/psykzz/release-test)
+4. ❌ Closed PR [#3](https://github.com/psykzz/release-test/pull/3) in [psykzz/release-test](https://github.com/psykzz/release-test)
+5. 🎉 Merged PR [#2](https://github.com/psykzz/release-test/pull/2) in [psykzz/release-test](https://github.com/psykzz/release-test)
 <!--END_SECTION:activity-->
 
 
