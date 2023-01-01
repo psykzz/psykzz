@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11840](https://github.com/tgstation/TerraGov-Marine-Corps/issues/11840) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
-2. 🗣 Commented on [#11840](https://github.com/tgstation/TerraGov-Marine-Corps/issues/11840) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
-3. 🎉 Merged PR [#11841](https://github.com/tgstation/TerraGov-Marine-Corps/pull/11841) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
-4. 🗣 Commented on [#11835](https://github.com/tgstation/TerraGov-Marine-Corps/issues/11835) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
-5. 🗣 Commented on [#27](https://github.com/ps-wow/Adibags_ByExpansion/issues/27) in [ps-wow/Adibags_ByExpansion](https://github.com/ps-wow/Adibags_ByExpansion)
+1. 💪 Opened PR [#11845](https://github.com/tgstation/TerraGov-Marine-Corps/pull/11845) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
+2. ❗️ Closed issue [#11840](https://github.com/tgstation/TerraGov-Marine-Corps/issues/11840) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
+3. 🗣 Commented on [#11840](https://github.com/tgstation/TerraGov-Marine-Corps/issues/11840) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
+4. 🎉 Merged PR [#11841](https://github.com/tgstation/TerraGov-Marine-Corps/pull/11841) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
+5. 🗣 Commented on [#11835](https://github.com/tgstation/TerraGov-Marine-Corps/issues/11835) in [tgstation/TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps)
 <!--END_SECTION:activity-->
 
 
