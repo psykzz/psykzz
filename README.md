@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/olijeffers0n/rustplus/pull/43) in [olijeffers0n/rustplus](https://github.com/olijeffers0n/rustplus)
-2. ❗️ Opened issue [#137](https://github.com/alexemanuelol/rustPlusPlus/issues/137) in [alexemanuelol/rustPlusPlus](https://github.com/alexemanuelol/rustPlusPlus)
-3. 💪 Opened PR [#28](https://github.com/olijeffers0n/rustplus/pull/28) in [olijeffers0n/rustplus](https://github.com/olijeffers0n/rustplus)
-4. 🗣 Commented on [#16](https://github.com/psykzz/new-world-server-page/issues/16) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
-5. 🗣 Commented on [#11](https://github.com/psykzz/new-world-server-page/issues/11) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+1. 🗣 Commented on [#2](https://github.com/psykzz/rustplus/issues/2) in [psykzz/rustplus](https://github.com/psykzz/rustplus)
+2. 💪 Opened PR [#3](https://github.com/psykzz/rustplus/pull/3) in [psykzz/rustplus](https://github.com/psykzz/rustplus)
+3. 🗣 Commented on [#44](https://github.com/olijeffers0n/rustplus/issues/44) in [olijeffers0n/rustplus](https://github.com/olijeffers0n/rustplus)
+4. 💪 Opened PR [#2](https://github.com/psykzz/rustplus/pull/2) in [psykzz/rustplus](https://github.com/psykzz/rustplus)
+5. ❌ Closed PR [#44](https://github.com/olijeffers0n/rustplus/pull/44) in [olijeffers0n/rustplus](https://github.com/olijeffers0n/rustplus)
 <!--END_SECTION:activity-->
 
 
