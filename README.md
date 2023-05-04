@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/microapps/gatsby-plugin-react-i18next/pull/174) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
-2. 💪 Opened PR [#173](https://github.com/microapps/gatsby-plugin-react-i18next/pull/173) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
-3. ❗️ Opened issue [#172](https://github.com/microapps/gatsby-plugin-react-i18next/issues/172) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
-4. 🗣 Commented on [#45](https://github.com/olijeffers0n/rustplus/issues/45) in [olijeffers0n/rustplus](https://github.com/olijeffers0n/rustplus)
-5. 🗣 Commented on [#2](https://github.com/psykzz/rustplus/issues/2) in [psykzz/rustplus](https://github.com/psykzz/rustplus)
+1. 🗣 Commented on [#173](https://github.com/microapps/gatsby-plugin-react-i18next/issues/173) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+2. 💪 Opened PR [#174](https://github.com/microapps/gatsby-plugin-react-i18next/pull/174) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+3. 💪 Opened PR [#173](https://github.com/microapps/gatsby-plugin-react-i18next/pull/173) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+4. ❗️ Opened issue [#172](https://github.com/microapps/gatsby-plugin-react-i18next/issues/172) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+5. 🗣 Commented on [#45](https://github.com/olijeffers0n/rustplus/issues/45) in [olijeffers0n/rustplus](https://github.com/olijeffers0n/rustplus)
 <!--END_SECTION:activity-->
 
 
