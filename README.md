@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/psykzz/psybot/pull/29) in [psykzz/psybot](https://github.com/psykzz/psybot)
-2. 🎉 Merged PR [#33](https://github.com/psykzz/new-world-server-page/pull/33) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
-3. 🎉 Merged PR [#31](https://github.com/psykzz/new-world-server-page/pull/31) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
-4. 🎉 Merged PR [#30](https://github.com/psykzz/new-world-server-page/pull/30) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
-5. 🗣 Commented on [#173](https://github.com/microapps/gatsby-plugin-react-i18next/issues/173) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+1. 🗣 Commented on [#173](https://github.com/microapps/gatsby-plugin-react-i18next/issues/173) in [microapps/gatsby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next)
+2. 💪 Opened PR [#29](https://github.com/psykzz/psybot/pull/29) in [psykzz/psybot](https://github.com/psykzz/psybot)
+3. 🎉 Merged PR [#33](https://github.com/psykzz/new-world-server-page/pull/33) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+4. 🎉 Merged PR [#31](https://github.com/psykzz/new-world-server-page/pull/31) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+5. 🎉 Merged PR [#30](https://github.com/psykzz/new-world-server-page/pull/30) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
 <!--END_SECTION:activity-->
 
 
