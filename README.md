@@ -8,11 +8,11 @@ Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/alexemanuelol/rustplusplus/issues/219) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
-2. 💪 Opened PR [#216](https://github.com/alexemanuelol/rustplusplus/pull/216) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
-3. 💪 Opened PR [#132](https://github.com/ndahlquist/stable-horde-flutter/pull/132) in [ndahlquist/stable-horde-flutter](https://github.com/ndahlquist/stable-horde-flutter)
-4. 💪 Opened PR [#210](https://github.com/alexemanuelol/rustplusplus/pull/210) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
-5. 🎉 Merged PR [#37](https://github.com/psykzz/new-world-server-page/pull/37) in [psykzz/new-world-server-page](https://github.com/psykzz/new-world-server-page)
+1. 💪 Opened PR [#222](https://github.com/alexemanuelol/rustplusplus/pull/222) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
+2. 🗣 Commented on [#219](https://github.com/alexemanuelol/rustplusplus/issues/219) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
+3. 💪 Opened PR [#216](https://github.com/alexemanuelol/rustplusplus/pull/216) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
+4. 💪 Opened PR [#132](https://github.com/ndahlquist/stable-horde-flutter/pull/132) in [ndahlquist/stable-horde-flutter](https://github.com/ndahlquist/stable-horde-flutter)
+5. 💪 Opened PR [#210](https://github.com/alexemanuelol/rustplusplus/pull/210) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
 <!--END_SECTION:activity-->
 
 
