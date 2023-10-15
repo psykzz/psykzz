@@ -3,7 +3,7 @@
 -->
 
 ## Matt Smith - 👋
-Hi, I'm Matt — a software engineer at Riot Games, working on a wide variety of commerce products.
+Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide variety of commerce products.
 
 ## ⚡ Recent Activity
 
