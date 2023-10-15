@@ -20,8 +20,8 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 
 Pretty much anything @psykzz.
 
-- Discord: PsyKzz#4695
-- Email: psykzz@psykzz.com
+- Discord: `psykzz`
+- Email: `psykzz@psykzz.com`
 
 
 ## Notable mentions / callouts
