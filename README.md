@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/Cidan/BetterBags/issues/126) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
-2. 🎉 Merged PR [#4](https://github.com/psykzz/planning-poker/pull/4) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-3. 💪 Opened PR [#170](https://github.com/Cidan/BetterBags/pull/170) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
-4. ❗️ Opened issue [#169](https://github.com/Cidan/BetterBags/issues/169) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
-5. ❌ Closed PR [#2](https://github.com/psykzz/cogs/pull/2) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. ❗️ Closed issue [#232](https://github.com/Cidan/BetterBags/issues/232) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
+2. 🗣 Commented on [#232](https://github.com/Cidan/BetterBags/issues/232) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
+3. 🗣 Commented on [#234](https://github.com/Cidan/BetterBags/issues/234) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
+4. ❗️ Closed issue [#234](https://github.com/Cidan/BetterBags/issues/234) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
+5. ❗️ Opened issue [#233](https://github.com/Cidan/BetterBags/issues/233) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
 <!--END_SECTION:activity-->
 
 
