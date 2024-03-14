@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#250](https://github.com/Cidan/BetterBags/issues/250) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
-2. ❗️ Opened issue [#250](https://github.com/Cidan/BetterBags/issues/250) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
-3. ❗️ Closed issue [#232](https://github.com/Cidan/BetterBags/issues/232) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
-4. 🗣 Commented on [#232](https://github.com/Cidan/BetterBags/issues/232) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
-5. 🗣 Commented on [#234](https://github.com/Cidan/BetterBags/issues/234) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
+1. 🗣 Commented on [#4](https://github.com/psykzz/albion-api/issues/4) in [psykzz/albion-api](https://github.com/psykzz/albion-api)
+2. ❌ Closed PR [#4](https://github.com/psykzz/albion-api/pull/4) in [psykzz/albion-api](https://github.com/psykzz/albion-api)
+3. 🗣 Commented on [#250](https://github.com/Cidan/BetterBags/issues/250) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
+4. ❗️ Opened issue [#250](https://github.com/Cidan/BetterBags/issues/250) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
+5. ❗️ Closed issue [#232](https://github.com/Cidan/BetterBags/issues/232) in [Cidan/BetterBags](https://github.com/Cidan/BetterBags)
 <!--END_SECTION:activity-->
 
 
