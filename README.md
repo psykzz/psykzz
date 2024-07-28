@@ -8,9 +8,9 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/psykzz/psybot/pull/33) in [psykzz/psybot](https://github.com/psykzz/psybot)
-2. ❗️ Opened issue [#334](https://github.com/alexemanuelol/rustplusplus/issues/334) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
-3. 🗣 Commented on [#68](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/68) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
+1. ❗️ Opened issue [#164](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/164) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
+2. 💪 Opened PR [#33](https://github.com/psykzz/psybot/pull/33) in [psykzz/psybot](https://github.com/psykzz/psybot)
+3. ❗️ Opened issue [#334](https://github.com/alexemanuelol/rustplusplus/issues/334) in [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus)
 4. ❗️ Opened issue [#68](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/68) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
 5. 💪 Opened PR [#32](https://github.com/psykzz/psybot/pull/32) in [psykzz/psybot](https://github.com/psykzz/psybot)
 <!--END_SECTION:activity-->
