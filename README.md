@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/psykzz/psybot/pull/36) in [psykzz/psybot](https://github.com/psykzz/psybot)
-2. 💪 Opened PR [#35](https://github.com/psykzz/psybot/pull/35) in [psykzz/psybot](https://github.com/psykzz/psybot)
-3. 💪 Opened PR [#34](https://github.com/psykzz/psybot/pull/34) in [psykzz/psybot](https://github.com/psykzz/psybot)
-4. 🗣 Commented on [#210](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/210) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
-5. ❗️ Opened issue [#210](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/210) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
+1. 💪 Opened PR [#37](https://github.com/psykzz/psybot/pull/37) in [psykzz/psybot](https://github.com/psykzz/psybot)
+2. 💪 Opened PR [#36](https://github.com/psykzz/psybot/pull/36) in [psykzz/psybot](https://github.com/psykzz/psybot)
+3. 💪 Opened PR [#35](https://github.com/psykzz/psybot/pull/35) in [psykzz/psybot](https://github.com/psykzz/psybot)
+4. 💪 Opened PR [#34](https://github.com/psykzz/psybot/pull/34) in [psykzz/psybot](https://github.com/psykzz/psybot)
+5. 🗣 Commented on [#210](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/210) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
 <!--END_SECTION:activity-->
 
 
