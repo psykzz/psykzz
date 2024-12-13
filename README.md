@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/psykzz/wow-autoequipbag/pull/1) in [psykzz/wow-autoequipbag](https://github.com/psykzz/wow-autoequipbag)
-2. 💪 Opened PR [#44](https://github.com/Peterodox/Plumber/pull/44) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
-3. 💪 Opened PR [#38](https://github.com/psykzz/psybot/pull/38) in [psykzz/psybot](https://github.com/psykzz/psybot)
-4. 🎉 Merged PR [#5](https://github.com/psykzz/planning-poker/pull/5) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-5. 💪 Opened PR [#37](https://github.com/psykzz/psybot/pull/37) in [psykzz/psybot](https://github.com/psykzz/psybot)
+1. 💪 Opened PR [#39](https://github.com/psykzz/psybot/pull/39) in [psykzz/psybot](https://github.com/psykzz/psybot)
+2. 🎉 Merged PR [#8](https://github.com/psykzz/next-statbus/pull/8) in [psykzz/next-statbus](https://github.com/psykzz/next-statbus)
+3. 🗣 Commented on [#7](https://github.com/psykzz/next-statbus/issues/7) in [psykzz/next-statbus](https://github.com/psykzz/next-statbus)
+4. 🎉 Merged PR [#1](https://github.com/psykzz/wow-autoequipbag/pull/1) in [psykzz/wow-autoequipbag](https://github.com/psykzz/wow-autoequipbag)
+5. 💪 Opened PR [#44](https://github.com/Peterodox/Plumber/pull/44) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
 <!--END_SECTION:activity-->
 
 
