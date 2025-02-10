@@ -8,7 +8,7 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/psykzz/psybot/pull/39) in [psykzz/psybot](https://github.com/psykzz/psybot)
+1. 🎉 Merged PR [#3](https://github.com/psykzz/cogs/pull/3) in [psykzz/cogs](https://github.com/psykzz/cogs)
 2. 🎉 Merged PR [#8](https://github.com/psykzz/next-statbus/pull/8) in [psykzz/next-statbus](https://github.com/psykzz/next-statbus)
 3. 🗣 Commented on [#7](https://github.com/psykzz/next-statbus/issues/7) in [psykzz/next-statbus](https://github.com/psykzz/next-statbus)
 4. 🎉 Merged PR [#1](https://github.com/psykzz/wow-autoequipbag/pull/1) in [psykzz/wow-autoequipbag](https://github.com/psykzz/wow-autoequipbag)
