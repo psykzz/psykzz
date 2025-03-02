@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#365](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/365) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
-2. ❗️ Opened issue [#19](https://github.com/nanderson11/Atlas/issues/19) in [nanderson11/Atlas](https://github.com/nanderson11/Atlas)
-3. 💪 Opened PR [#356](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/pull/356) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
-4. 🎉 Merged PR [#3](https://github.com/psykzz/cogs/pull/3) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. 💪 Opened PR [#44](https://github.com/Peterodox/Plumber/pull/44) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
+1. 🗣 Commented on [#377](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/377) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
+2. ❗️ Opened issue [#377](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/377) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
+3. ❗️ Opened issue [#365](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/issues/365) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
+4. ❗️ Opened issue [#19](https://github.com/nanderson11/Atlas/issues/19) in [nanderson11/Atlas](https://github.com/nanderson11/Atlas)
+5. 💪 Opened PR [#356](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI/pull/356) in [Karl-HeinzSchneider/WoW-DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI)
 <!--END_SECTION:activity-->
 
 
