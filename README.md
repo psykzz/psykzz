@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/psykzz/cogs/issues/5) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. ❗️ Closed issue [#4](https://github.com/psykzz/cogs/issues/4) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. ❌ Closed PR [#7](https://github.com/psykzz/cogs/pull/7) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. 🗣 Commented on [#7](https://github.com/psykzz/cogs/issues/7) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. ❗️ Closed issue [#13](https://github.com/psykzz/cogs/issues/13) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. ❗️ Closed issue [#9](https://github.com/psykzz/fair-roulette/issues/9) in [psykzz/fair-roulette](https://github.com/psykzz/fair-roulette)
+2. 🎉 Merged PR [#10](https://github.com/psykzz/fair-roulette/pull/10) in [psykzz/fair-roulette](https://github.com/psykzz/fair-roulette)
+3. ❗️ Closed issue [#3](https://github.com/psykzz/fair-roulette/issues/3) in [psykzz/fair-roulette](https://github.com/psykzz/fair-roulette)
+4. 🎉 Merged PR [#4](https://github.com/psykzz/fair-roulette/pull/4) in [psykzz/fair-roulette](https://github.com/psykzz/fair-roulette)
+5. 🗣 Commented on [#4](https://github.com/psykzz/fair-roulette/issues/4) in [psykzz/fair-roulette](https://github.com/psykzz/fair-roulette)
 <!--END_SECTION:activity-->
 
 
