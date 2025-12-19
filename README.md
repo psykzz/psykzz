@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/psykzz/albion-gear-price-finder/issues/11) in [psykzz/albion-gear-price-finder](https://github.com/psykzz/albion-gear-price-finder)
-2. ❗️ Closed issue [#7](https://github.com/psykzz/albion-gear-price-finder/issues/7) in [psykzz/albion-gear-price-finder](https://github.com/psykzz/albion-gear-price-finder)
-3. ❗️ Closed issue [#9](https://github.com/psykzz/albion-gear-price-finder/issues/9) in [psykzz/albion-gear-price-finder](https://github.com/psykzz/albion-gear-price-finder)
-4. ❌ Closed PR [#8](https://github.com/psykzz/albion-gear-price-finder/pull/8) in [psykzz/albion-gear-price-finder](https://github.com/psykzz/albion-gear-price-finder)
-5. ❗️ Closed issue [#5](https://github.com/psykzz/albion-gear-price-finder/issues/5) in [psykzz/albion-gear-price-finder](https://github.com/psykzz/albion-gear-price-finder)
+1. ❌ Merged PR [#167](https://github.com/Cog-Creators/Red-Index/pull/167) in [Cog-Creators/Red-Index](https://github.com/Cog-Creators/Red-Index)
+2. 🗣 Commented on [#73](https://github.com/psykzz/cogs/issues/73) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 🗣 Commented on [#6637](https://github.com/Cog-Creators/Red-DiscordBot/issues/6637) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+4. 🗣 Commented on [#167](https://github.com/Cog-Creators/Red-Index/issues/167) in [Cog-Creators/Red-Index](https://github.com/Cog-Creators/Red-Index)
+5. 🗣 Commented on [#67](https://github.com/psykzz/cogs/issues/67) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
