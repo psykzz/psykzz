@@ -8,11 +8,11 @@ Hi, I'm Matt — a senior software engineer at Riot Games, working on a wide var
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/psykzz/cogs/issues/89) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. 🗣 Commented on [#84](https://github.com/psykzz/cogs/issues/84) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. ❌ Closed PR [#79](https://github.com/psykzz/cogs/pull/79) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. 🗣 Commented on [#74](https://github.com/psykzz/cogs/issues/74) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. ❌ Merged PR [#167](https://github.com/Cog-Creators/Red-Index/pull/167) in [Cog-Creators/Red-Index](https://github.com/Cog-Creators/Red-Index)
+1. 🗣 Commented on [#15](https://github.com/psykzz/cogs/issues/15) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. 🗣 Commented on [#94](https://github.com/psykzz/cogs/issues/94) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 🗣 Commented on [#89](https://github.com/psykzz/cogs/issues/89) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 🗣 Commented on [#84](https://github.com/psykzz/cogs/issues/84) in [psykzz/cogs](https://github.com/psykzz/cogs)
+5. ❌ Closed PR [#79](https://github.com/psykzz/cogs/pull/79) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
