@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/psykzz/cogs/issues/102) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. 🗣 Commented on [#100](https://github.com/psykzz/cogs/issues/100) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. 🗣 Commented on [#163](https://github.com/ao-data/albiondata-client/issues/163) in [ao-data/albiondata-client](https://github.com/ao-data/albiondata-client)
-4. ❌ Closed PR [#98](https://github.com/psykzz/cogs/pull/98) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. 💪 Opened PR [#40](https://github.com/psykzz/psybot/pull/40) in [psykzz/psybot](https://github.com/psykzz/psybot)
+1. ❌ Closed PR [#101](https://github.com/psykzz/cogs/pull/101) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. 🗣 Commented on [#102](https://github.com/psykzz/cogs/issues/102) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 🗣 Commented on [#100](https://github.com/psykzz/cogs/issues/100) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 🗣 Commented on [#163](https://github.com/ao-data/albiondata-client/issues/163) in [ao-data/albiondata-client](https://github.com/ao-data/albiondata-client)
+5. ❌ Closed PR [#98](https://github.com/psykzz/cogs/pull/98) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
