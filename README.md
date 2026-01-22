@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#101](https://github.com/psykzz/cogs/pull/101) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. 🗣 Commented on [#102](https://github.com/psykzz/cogs/issues/102) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. 🗣 Commented on [#100](https://github.com/psykzz/cogs/issues/100) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. 🗣 Commented on [#163](https://github.com/ao-data/albiondata-client/issues/163) in [ao-data/albiondata-client](https://github.com/ao-data/albiondata-client)
-5. ❌ Closed PR [#98](https://github.com/psykzz/cogs/pull/98) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. ❗️ Closed issue [#8](https://github.com/psykzz/avalon-hideout-mapper/issues/8) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
+2. 🗣 Commented on [#6](https://github.com/psykzz/avalon-hideout-mapper/issues/6) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
+3. ❗️ Closed issue [#4](https://github.com/psykzz/avalon-hideout-mapper/issues/4) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
+4. 🗣 Commented on [#5](https://github.com/psykzz/avalon-hideout-mapper/issues/5) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
+5. ❗️ Closed issue [#2](https://github.com/psykzz/avalon-hideout-mapper/issues/2) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
 <!--END_SECTION:activity-->
 
 
