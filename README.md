@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/psykzz/avalon-hideout-mapper/issues/8) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
-2. 🗣 Commented on [#6](https://github.com/psykzz/avalon-hideout-mapper/issues/6) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
-3. ❗️ Closed issue [#4](https://github.com/psykzz/avalon-hideout-mapper/issues/4) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
-4. 🗣 Commented on [#5](https://github.com/psykzz/avalon-hideout-mapper/issues/5) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
-5. ❗️ Closed issue [#2](https://github.com/psykzz/avalon-hideout-mapper/issues/2) in [psykzz/avalon-hideout-mapper](https://github.com/psykzz/avalon-hideout-mapper)
+1. 🗣 Commented on [#114](https://github.com/TheMouseNest/Journalator/issues/114) in [TheMouseNest/Journalator](https://github.com/TheMouseNest/Journalator)
+2. 🗣 Commented on [#161](https://github.com/ao-data/albiondata-client/issues/161) in [ao-data/albiondata-client](https://github.com/ao-data/albiondata-client)
+3. ❗️ Closed issue [#161](https://github.com/ao-data/albiondata-client/issues/161) in [ao-data/albiondata-client](https://github.com/ao-data/albiondata-client)
+4. 🗣 Commented on [#68](https://github.com/TheMouseNest/Chattynator/issues/68) in [TheMouseNest/Chattynator](https://github.com/TheMouseNest/Chattynator)
+5. ❌ Closed PR [#163](https://github.com/ao-data/albiondata-client/pull/163) in [ao-data/albiondata-client](https://github.com/ao-data/albiondata-client)
 <!--END_SECTION:activity-->
 
 
