@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/psykzz/psybot/pull/41) in [psykzz/psybot](https://github.com/psykzz/psybot)
-2. 💪 Opened PR [#317](https://github.com/Krealle/Cell_UnitFrames/pull/317) in [Krealle/Cell_UnitFrames](https://github.com/Krealle/Cell_UnitFrames)
-3. ❌ Labeled PR [#6](https://github.com/psykzz/rustplusplus/pull/6) in [psykzz/rustplusplus](https://github.com/psykzz/rustplusplus)
-4. 🗣 Commented on [#114](https://github.com/TheMouseNest/Journalator/issues/114) in [TheMouseNest/Journalator](https://github.com/TheMouseNest/Journalator)
-5. 🗣 Commented on [#161](https://github.com/ao-data/albiondata-client/issues/161) in [ao-data/albiondata-client](https://github.com/ao-data/albiondata-client)
+1. ❌ Merged PR [#2](https://github.com/psykzz/varus-music/pull/2) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
+2. 🗣 Commented on [#1](https://github.com/psykzz/varus-music/issues/1) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
+3. 🗣 Commented on [#112](https://github.com/psykzz/cogs/issues/112) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 💪 Opened PR [#41](https://github.com/psykzz/psybot/pull/41) in [psykzz/psybot](https://github.com/psykzz/psybot)
+5. 💪 Opened PR [#317](https://github.com/Krealle/Cell_UnitFrames/pull/317) in [Krealle/Cell_UnitFrames](https://github.com/Krealle/Cell_UnitFrames)
 <!--END_SECTION:activity-->
 
 
