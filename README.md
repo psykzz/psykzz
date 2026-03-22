@@ -19,7 +19,7 @@ const matt = {
   systems: [ "docker", "spring", "react", "vite", "node" ],
   architecture: [ "microservices", "event-driven", "design system pattern" ],
   raspberry_pi: {
-    pi5: [ "immich", "copyparty", "discord-redbot" ]
+    pi5: [ "immich", "copyparty", "discord-redbot", "caddy", "pihole" ],
     pi4b: [ "home-assistant" ]
   }
 }
