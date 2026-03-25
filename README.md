@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Assigned issue [#123](https://github.com/psykzz/cogs/issues/123) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. ❗️ Closed issue [#113](https://github.com/psykzz/cogs/issues/113) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. 🗣 Commented on [#114](https://github.com/psykzz/cogs/issues/114) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. ❌ Merged PR [#2](https://github.com/psykzz/varus-music/pull/2) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
-5. 🗣 Commented on [#1](https://github.com/psykzz/varus-music/issues/1) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
+1. 🗣 Commented on [#8](https://github.com/psykzz/planning-poker/issues/8) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+2. ❗️ Assigned issue [#123](https://github.com/psykzz/cogs/issues/123) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. ❗️ Closed issue [#113](https://github.com/psykzz/cogs/issues/113) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 🗣 Commented on [#114](https://github.com/psykzz/cogs/issues/114) in [psykzz/cogs](https://github.com/psykzz/cogs)
+5. ❌ Merged PR [#2](https://github.com/psykzz/varus-music/pull/2) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
 <!--END_SECTION:activity-->
 
 
