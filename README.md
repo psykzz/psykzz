@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/psykzz/wow-cooldown-alert/issues/6) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-2. ❗️ Closed issue [#3](https://github.com/psykzz/albion-api/issues/3) in [psykzz/albion-api](https://github.com/psykzz/albion-api)
-3. ❗️ Closed issue [#7](https://github.com/psykzz/albion-api/issues/7) in [psykzz/albion-api](https://github.com/psykzz/albion-api)
-4. 🗣 Commented on [#15](https://github.com/psykzz/albion-api/issues/15) in [psykzz/albion-api](https://github.com/psykzz/albion-api)
-5. 🗣 Commented on [#12](https://github.com/psykzz/albion-api/issues/12) in [psykzz/albion-api](https://github.com/psykzz/albion-api)
+1. ❗️ Closed issue [#127](https://github.com/psykzz/cogs/issues/127) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. ❗️ Closed issue [#119](https://github.com/psykzz/cogs/issues/119) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 🗣 Commented on [#135](https://github.com/psykzz/cogs/issues/135) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 🗣 Commented on [#129](https://github.com/psykzz/cogs/issues/129) in [psykzz/cogs](https://github.com/psykzz/cogs)
+5. ❗️ Closed issue [#118](https://github.com/psykzz/cogs/issues/118) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
