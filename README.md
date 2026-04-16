@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#127](https://github.com/psykzz/cogs/issues/127) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. ❗️ Closed issue [#119](https://github.com/psykzz/cogs/issues/119) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. 🗣 Commented on [#135](https://github.com/psykzz/cogs/issues/135) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. 🗣 Commented on [#129](https://github.com/psykzz/cogs/issues/129) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. ❗️ Closed issue [#118](https://github.com/psykzz/cogs/issues/118) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. ❌ Closed PR [#137](https://github.com/psykzz/cogs/pull/137) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. 🗣 Commented on [#136](https://github.com/psykzz/cogs/issues/136) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. ❗️ Closed issue [#127](https://github.com/psykzz/cogs/issues/127) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. ❗️ Closed issue [#119](https://github.com/psykzz/cogs/issues/119) in [psykzz/cogs](https://github.com/psykzz/cogs)
+5. 🗣 Commented on [#135](https://github.com/psykzz/cogs/issues/135) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
