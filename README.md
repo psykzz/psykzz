@@ -44,9 +44,9 @@ const matt = {
 Pretty much anything @psykzz.
 
 - Discord: `psykzz`
-- Email: `psykzz@psykzz.com`
+- Email: `github@psykzz.com`
 
 
 ## Notable individuals
 
- - [@neamar](https://github.com/neamar) - A highly recommended individual, who I've worked with in the past.
+ - [@neamar](https://github.com/neamar) - An amazing individual.
