@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7](https://github.com/psykzz/varus-music/pull/7) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
-2. 🗣 Commented on [#143](https://github.com/psykzz/cogs/issues/143) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. ❌ Merged PR [#403](https://github.com/Peterodox/Plumber/pull/403) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
-4. ❗️ Opened issue [#402](https://github.com/Peterodox/Plumber/issues/402) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
-5. 🗣 Commented on [#116](https://github.com/psykzz/cogs/issues/116) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. ❌ Merged PR [#14](https://github.com/psykzz/planning-poker/pull/14) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+2. ❌ Merged PR [#13](https://github.com/psykzz/planning-poker/pull/13) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+3. ❌ Merged PR [#12](https://github.com/psykzz/planning-poker/pull/12) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+4. ❌ Merged PR [#11](https://github.com/psykzz/planning-poker/pull/11) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+5. ❌ Merged PR [#10](https://github.com/psykzz/planning-poker/pull/10) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
 <!--END_SECTION:activity-->
 
 
