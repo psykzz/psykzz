@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#414](https://github.com/Peterodox/Plumber/pull/414) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
-2. ❌ Merged PR [#14](https://github.com/psykzz/planning-poker/pull/14) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-3. ❌ Merged PR [#13](https://github.com/psykzz/planning-poker/pull/13) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-4. ❌ Merged PR [#12](https://github.com/psykzz/planning-poker/pull/12) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-5. ❌ Merged PR [#11](https://github.com/psykzz/planning-poker/pull/11) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+1. 🎉 Merged PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
+2. 💪 Opened PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
+3. 💪 Opened PR [#37158](https://github.com/is-a-dev/register/pull/37158) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🎉 Merged PR [#414](https://github.com/Peterodox/Plumber/pull/414) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
+5. 💪 Opened PR [#414](https://github.com/Peterodox/Plumber/pull/414) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
 <!--END_SECTION:activity-->
 
 
