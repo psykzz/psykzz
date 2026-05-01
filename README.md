@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
-2. 💪 Opened PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
-3. 💪 Opened PR [#37158](https://github.com/is-a-dev/register/pull/37158) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🎉 Merged PR [#414](https://github.com/Peterodox/Plumber/pull/414) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
-5. 💪 Opened PR [#414](https://github.com/Peterodox/Plumber/pull/414) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
+1. 🎉 Merged PR [#37158](https://github.com/is-a-dev/register/pull/37158) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❗ Opened issue [#355](https://github.com/TrustyJAID/Trusty-cogs/issues/355) in [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs)
+3. 🎉 Merged PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
+4. 💪 Opened PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
+5. 💪 Opened PR [#37158](https://github.com/is-a-dev/register/pull/37158) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 
