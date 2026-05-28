@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37158](https://github.com/is-a-dev/register/pull/37158) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❗ Opened issue [#355](https://github.com/TrustyJAID/Trusty-cogs/issues/355) in [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs)
-3. 🎉 Merged PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
-4. 💪 Opened PR [#1](https://github.com/psykzz/psykzz/pull/1) in [psykzz/psykzz](https://github.com/psykzz/psykzz)
-5. 💪 Opened PR [#37158](https://github.com/is-a-dev/register/pull/37158) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#155](https://github.com/psykzz/cogs/pull/155) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. 🔒 Closed issue [#150](https://github.com/psykzz/cogs/issues/150) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 💪 Opened PR [#155](https://github.com/psykzz/cogs/pull/155) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 🎉 Merged PR [#154](https://github.com/psykzz/cogs/pull/154) in [psykzz/cogs](https://github.com/psykzz/cogs)
+5. 🔒 Closed issue [#148](https://github.com/psykzz/cogs/issues/148) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
