@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#316465](https://github.com/microsoft/vscode/issues/316465#issuecomment-4573917758) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🎉 Merged PR [#155](https://github.com/psykzz/cogs/pull/155) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. 🔒 Closed issue [#150](https://github.com/psykzz/cogs/issues/150) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. 💪 Opened PR [#155](https://github.com/psykzz/cogs/pull/155) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. 🎉 Merged PR [#154](https://github.com/psykzz/cogs/pull/154) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. 🔒 Closed issue [#149](https://github.com/psykzz/cogs/issues/149) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. 🎉 Merged PR [#156](https://github.com/psykzz/cogs/pull/156) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 💪 Opened PR [#156](https://github.com/psykzz/cogs/pull/156) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 🗣 Commented on [#316465](https://github.com/microsoft/vscode/issues/316465#issuecomment-4573917758) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#155](https://github.com/psykzz/cogs/pull/155) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
