@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#149](https://github.com/psykzz/cogs/issues/149) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. 🎉 Merged PR [#156](https://github.com/psykzz/cogs/pull/156) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. 💪 Opened PR [#156](https://github.com/psykzz/cogs/pull/156) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. 🗣 Commented on [#316465](https://github.com/microsoft/vscode/issues/316465#issuecomment-4573917758) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🎉 Merged PR [#155](https://github.com/psykzz/cogs/pull/155) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. 🎉 Merged PR [#21](https://github.com/psykzz/varus-music/pull/21) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
+2. 💪 Opened PR [#21](https://github.com/psykzz/varus-music/pull/21) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
+3. ❌ Closed PR [#9](https://github.com/psykzz/varus-music/pull/9) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
+4. 🎉 Merged PR [#11](https://github.com/psykzz/varus-music/pull/11) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
+5. 🎉 Merged PR [#14](https://github.com/psykzz/varus-music/pull/14) in [psykzz/varus-music](https://github.com/psykzz/varus-music)
 <!--END_SECTION:activity-->
 
 
