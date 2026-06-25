@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#182](https://github.com/psykzz/cogs/issues/182) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. 💪 Opened PR [#183](https://github.com/psykzz/cogs/pull/183) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. ℹ️ Labeled issue [#182](https://github.com/psykzz/cogs/issues/182) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. 🔒 Closed issue [#180](https://github.com/psykzz/cogs/issues/180) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. 💪 Opened PR [#181](https://github.com/psykzz/cogs/pull/181) in [psykzz/cogs](https://github.com/psykzz/cogs)
+1. 💪 Opened PR [#190](https://github.com/psykzz/cogs/pull/190) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. 🎉 Merged PR [#189](https://github.com/psykzz/cogs/pull/189) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 🔒 Closed issue [#188](https://github.com/psykzz/cogs/issues/188) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 💪 Opened PR [#189](https://github.com/psykzz/cogs/pull/189) in [psykzz/cogs](https://github.com/psykzz/cogs)
+5. 🎉 Merged PR [#184](https://github.com/psykzz/cogs/pull/184) in [psykzz/cogs](https://github.com/psykzz/cogs)
 <!--END_SECTION:activity-->
 
 
