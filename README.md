@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#36](https://github.com/psykzz/planning-poker/issues/36) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-2. ❗ Opened issue [#36](https://github.com/psykzz/planning-poker/issues/36) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-3. ℹ️ Labeled issue [#35](https://github.com/psykzz/planning-poker/issues/35) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-4. ❗ Opened issue [#35](https://github.com/psykzz/planning-poker/issues/35) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-5. ℹ️ Labeled issue [#34](https://github.com/psykzz/planning-poker/issues/34) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+1. 🔒 Closed issue [#35](https://github.com/psykzz/planning-poker/issues/35) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+2. 🗣 Commented on [#53](https://github.com/psykzz/planning-poker/pull/53#issuecomment-5135687794) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+3. 🔒 Closed issue [#19](https://github.com/psykzz/planning-poker/issues/19) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+4. ℹ️ Unassigned issue [#9](https://github.com/psykzz/planning-poker/issues/9) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+5. ℹ️ Unassigned issue [#9](https://github.com/psykzz/planning-poker/issues/9) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
 <!--END_SECTION:activity-->
 
 
