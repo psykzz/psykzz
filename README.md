@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35](https://github.com/psykzz/planning-poker/issues/35) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-2. 🗣 Commented on [#53](https://github.com/psykzz/planning-poker/pull/53#issuecomment-5135687794) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-3. 🔒 Closed issue [#19](https://github.com/psykzz/planning-poker/issues/19) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-4. ℹ️ Unassigned issue [#9](https://github.com/psykzz/planning-poker/issues/9) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-5. ℹ️ Unassigned issue [#9](https://github.com/psykzz/planning-poker/issues/9) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+1. 🗣 Commented on [#37](https://github.com/psykzz/planning-poker/pull/37#issuecomment-5147354125) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+2. 🔒 Closed issue [#33](https://github.com/psykzz/planning-poker/issues/33) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+3. 🗣 Commented on [#53](https://github.com/psykzz/planning-poker/pull/53#issuecomment-5147339460) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+4. 🔒 Closed issue [#32](https://github.com/psykzz/planning-poker/issues/32) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+5. 🗣 Commented on [#50](https://github.com/psykzz/planning-poker/pull/50#issuecomment-5147310777) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
 <!--END_SECTION:activity-->
 
 
