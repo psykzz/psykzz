@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#57](https://github.com/psykzz/planning-poker/issues/57) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-2. ℹ️ Assigned issue [#57](https://github.com/psykzz/planning-poker/issues/57) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-3. ❗ Opened issue [#57](https://github.com/psykzz/planning-poker/issues/57) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-4. 🗣 Commented on [#37](https://github.com/psykzz/planning-poker/pull/37#issuecomment-5147354125) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
-5. 🔒 Closed issue [#33](https://github.com/psykzz/planning-poker/issues/33) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+1. ℹ️ Labeled issue [#1298](https://github.com/harborstremio/harbor/issues/1298) in [harborstremio/harbor](https://github.com/harborstremio/harbor)
+2. ℹ️ Labeled issue [#1298](https://github.com/harborstremio/harbor/issues/1298) in [harborstremio/harbor](https://github.com/harborstremio/harbor)
+3. ❗ Opened issue [#1298](https://github.com/harborstremio/harbor/issues/1298) in [harborstremio/harbor](https://github.com/harborstremio/harbor)
+4. ℹ️ Assigned issue [#57](https://github.com/psykzz/planning-poker/issues/57) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
+5. ℹ️ Assigned issue [#57](https://github.com/psykzz/planning-poker/issues/57) in [psykzz/planning-poker](https://github.com/psykzz/planning-poker)
 <!--END_SECTION:activity-->
 
 
