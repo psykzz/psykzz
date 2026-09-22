@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#219](https://github.com/Peterodox/YUI-Dialogue/issues/219) in [Peterodox/YUI-Dialogue](https://github.com/Peterodox/YUI-Dialogue)
-2. ❗ Opened issue [#506](https://github.com/Peterodox/Plumber/issues/506) in [Peterodox/Plumber](https://github.com/Peterodox/Plumber)
-3. ℹ️ Labeled issue [#1298](https://github.com/harborstremio/harbor/issues/1298) in [harborstremio/harbor](https://github.com/harborstremio/harbor)
-4. ℹ️ Labeled issue [#1298](https://github.com/harborstremio/harbor/issues/1298) in [harborstremio/harbor](https://github.com/harborstremio/harbor)
-5. ❗ Opened issue [#1298](https://github.com/harborstremio/harbor/issues/1298) in [harborstremio/harbor](https://github.com/harborstremio/harbor)
+1. 🚀 Published release [0.0.6](https://github.com/psykzz/wow-cooldown-alert/releases/tag/0.0.6) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+2. 🎉 Merged PR [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+3. 🗣 Commented on [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11#issuecomment-5768587388) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+4. 🗣 Commented on [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11#issuecomment-5768546894) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+5. 🗣 Commented on [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11#issuecomment-5768472041) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
 <!--END_SECTION:activity-->
 
 
