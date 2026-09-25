@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.6](https://github.com/psykzz/wow-cooldown-alert/releases/tag/0.0.6) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-2. 🎉 Merged PR [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-3. 🗣 Commented on [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11#issuecomment-5768587388) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-4. 🗣 Commented on [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11#issuecomment-5768546894) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-5. 🗣 Commented on [#11](https://github.com/psykzz/wow-cooldown-alert/pull/11#issuecomment-5768472041) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+1. 🔒 Closed issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. ℹ️ Assigned issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. ℹ️ Assigned issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. ❗ Opened issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
+5. ❌ Closed PR [#15](https://github.com/psykzz/wow-cooldown-alert/pull/15) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
 <!--END_SECTION:activity-->
 
 
