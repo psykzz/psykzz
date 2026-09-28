@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
-2. ℹ️ Assigned issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
-3. ℹ️ Assigned issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
-4. ❗ Opened issue [#206](https://github.com/psykzz/cogs/issues/206) in [psykzz/cogs](https://github.com/psykzz/cogs)
-5. ❌ Closed PR [#15](https://github.com/psykzz/wow-cooldown-alert/pull/15) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+1. ℹ️ Labeled issue [#128](https://github.com/TheMouseNest/Journalator/issues/128) in [TheMouseNest/Journalator](https://github.com/TheMouseNest/Journalator)
+2. ℹ️ Labeled issue [#128](https://github.com/TheMouseNest/Journalator/issues/128) in [TheMouseNest/Journalator](https://github.com/TheMouseNest/Journalator)
+3. ❗ Opened issue [#128](https://github.com/TheMouseNest/Journalator/issues/128) in [TheMouseNest/Journalator](https://github.com/TheMouseNest/Journalator)
+4. 🗣 Commented on [#6](https://github.com/psykzz/wow-guild-ops/issues/6#issuecomment-5854864077) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+5. 🚀 Published release [v0.0.1](https://github.com/psykzz/wow-quickbuyout/releases/tag/v0.0.1) in [psykzz/wow-quickbuyout](https://github.com/psykzz/wow-quickbuyout)
 <!--END_SECTION:activity-->
 
 
