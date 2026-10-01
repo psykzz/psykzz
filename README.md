@@ -50,3 +50,36 @@ Pretty much anything @psykzz.
 ## Notable individuals
 
  - [@neamar](https://github.com/neamar) - An amazing individual.
+
+
+## For fun
+
+
+```
+        H A C K M A N   P R O T O C O L
+        =============================
+
+  1     0       7   1       0     1     0
+  0  1  1    0  3   0    1  1  0  0     1
+  1  0  0    1  9   1    0  0  1  1  0  0
+  :  1  1    0  :   0    1  7  0  0  1  1
+  .  0  0    1  .   1    0  :  1  1  0  0
+     :  1    0      0    1  .  0  :  1  1
+     .  :    1      :    0     1  .  0  0
+        .    :      .    :     0     1  :
+  0          .           .     :     :  .
+  1     0       1     0        .     .
+  0  1  1    0  0  1  1    0     1     0
+  1  0  0    1  1  0  0    1  0  0     1
+  :  1  1    0  :  1  1    0  1  1  0  0
+  .  0  :    1  .  0  :    1  0  0  1  1
+     :  .    :     :  .    0  1  :  0  0
+     .       .     .       :  0  .  1  :
+                           .  :     :  .
+                              .     .
+
+  > SIGNAL LOCKED
+  > REALITY BUFFER: BYPASSED
+  > HACKMAN PROTOCOL: ONLINE
+  > FOLLOW THE WHITE RABBIT_
+```
