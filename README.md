@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.7](https://github.com/psykzz/wow-cooldown-alert/releases/tag/0.0.7) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-2. 🎉 Merged PR [#17](https://github.com/psykzz/wow-cooldown-alert/pull/17) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-3. 🔒 Closed issue [#16](https://github.com/psykzz/wow-cooldown-alert/issues/16) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-4. 💪 Opened PR [#17](https://github.com/psykzz/wow-cooldown-alert/pull/17) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-5. ❗ Opened issue [#16](https://github.com/psykzz/wow-cooldown-alert/issues/16) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+1. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+2. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+3. ℹ️ Assigned issue [#6](https://github.com/psykzz/wow-guild-ops/issues/6) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+4. ℹ️ Assigned issue [#6](https://github.com/psykzz/wow-guild-ops/issues/6) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+5. 🔒 Closed issue [#5](https://github.com/psykzz/wow-guild-ops/issues/5) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
 <!--END_SECTION:activity-->
 
 
