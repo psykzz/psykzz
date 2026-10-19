@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
-2. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
-3. ℹ️ Assigned issue [#6](https://github.com/psykzz/wow-guild-ops/issues/6) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
-4. ℹ️ Assigned issue [#6](https://github.com/psykzz/wow-guild-ops/issues/6) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
-5. 🔒 Closed issue [#5](https://github.com/psykzz/wow-guild-ops/issues/5) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+1. ℹ️ Labeled issue [#171](https://github.com/fitzforge/polestar/issues/171) in [fitzforge/polestar](https://github.com/fitzforge/polestar)
+2. ❗ Opened issue [#171](https://github.com/fitzforge/polestar/issues/171) in [fitzforge/polestar](https://github.com/fitzforge/polestar)
+3. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+4. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+5. ℹ️ Assigned issue [#6](https://github.com/psykzz/wow-guild-ops/issues/6) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
 <!--END_SECTION:activity-->
 
 
