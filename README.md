@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#171](https://github.com/fitzforge/polestar/issues/171) in [fitzforge/polestar](https://github.com/fitzforge/polestar)
-2. ❗ Opened issue [#171](https://github.com/fitzforge/polestar/issues/171) in [fitzforge/polestar](https://github.com/fitzforge/polestar)
-3. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
-4. ℹ️ Assigned issue [#7](https://github.com/psykzz/wow-guild-ops/issues/7) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
-5. ℹ️ Assigned issue [#6](https://github.com/psykzz/wow-guild-ops/issues/6) in [psykzz/wow-guild-ops](https://github.com/psykzz/wow-guild-ops)
+1. 🗣 Commented on [#2](https://github.com/psykzz/wow-better-lfg/pull/2#issuecomment-6404858763) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
+2. 💪 Opened PR [#2](https://github.com/psykzz/wow-better-lfg/pull/2) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
+3. ❗ Opened issue [#1](https://github.com/psykzz/wow-better-lfg/issues/1) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
+4. 🔒 Closed issue [#14](https://github.com/psykzz/wow-cooldown-alert/issues/14) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
+5. ℹ️ Labeled issue [#171](https://github.com/fitzforge/polestar/issues/171) in [fitzforge/polestar](https://github.com/fitzforge/polestar)
 <!--END_SECTION:activity-->
 
 
