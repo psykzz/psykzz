@@ -31,11 +31,11 @@ const matt = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/psykzz/wow-better-lfg/pull/2#issuecomment-6404858763) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
-2. 💪 Opened PR [#2](https://github.com/psykzz/wow-better-lfg/pull/2) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
-3. ❗ Opened issue [#1](https://github.com/psykzz/wow-better-lfg/issues/1) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
-4. 🔒 Closed issue [#14](https://github.com/psykzz/wow-cooldown-alert/issues/14) in [psykzz/wow-cooldown-alert](https://github.com/psykzz/wow-cooldown-alert)
-5. ℹ️ Labeled issue [#171](https://github.com/fitzforge/polestar/issues/171) in [fitzforge/polestar](https://github.com/fitzforge/polestar)
+1. 💪 Opened PR [#209](https://github.com/psykzz/cogs/pull/209) in [psykzz/cogs](https://github.com/psykzz/cogs)
+2. 🎉 Merged PR [#208](https://github.com/psykzz/cogs/pull/208) in [psykzz/cogs](https://github.com/psykzz/cogs)
+3. 💪 Opened PR [#208](https://github.com/psykzz/cogs/pull/208) in [psykzz/cogs](https://github.com/psykzz/cogs)
+4. 🗣 Commented on [#2](https://github.com/psykzz/wow-better-lfg/pull/2#issuecomment-6404858763) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
+5. 💪 Opened PR [#2](https://github.com/psykzz/wow-better-lfg/pull/2) in [psykzz/wow-better-lfg](https://github.com/psykzz/wow-better-lfg)
 <!--END_SECTION:activity-->
 
 
